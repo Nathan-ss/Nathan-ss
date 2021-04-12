@@ -21,7 +21,7 @@
 
   
   <a href="https://www.linkedin.com/in/nathan-soares-302065186/" alt="Linkedin">
-  <img src="https://pcdn.sharethis.com/wp-content/uploads/2019/04/LinkedInlarge.png" /></a>
+  <img src="https://pcdn.sharethis.com/wp-content/uploads/2019/04/LinkedInlarge.png" style="widht:20px;" /></a>
 
 
 </p>  
