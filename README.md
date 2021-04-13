@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/black-droid/black-droid/blob/main/web-programming-background.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/black-droid/black-droid/blob/main/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Olá meu nome é Nathan, sou desenvolvedor <strong>FullStack</strong> e <strong>UX/UI Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
