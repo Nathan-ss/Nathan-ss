@@ -23,6 +23,13 @@
   <a href="https://www.linkedin.com/in/nathan-soares-302065186/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 
+  I'm learning at the moment **ReactNative, ReactJS, Deno**
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
+[![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://instagram.com/natanael.sousaleite)
+[![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl)
+[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natansl@gmail.com)
 
 </p>  
 
@@ -42,8 +49,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## ⚡ GitHub Stats
 
