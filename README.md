@@ -2,11 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Nathan, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
-</p>
-
-<p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap and UI/UX Design.</strong>
+  Olá meu nome é Nathan, sou desenvolvedor <strong>FullStack</strong> e <strong>UX/UI Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
 <p align="left">
