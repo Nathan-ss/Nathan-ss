@@ -29,6 +29,7 @@ other social networks:
 ## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Angular-9](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
