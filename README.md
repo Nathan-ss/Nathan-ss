@@ -46,5 +46,5 @@ other social networks:
 ## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nathan-ss&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-ss&hide=TeX&layout=compact &theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-ss&hide=TeX&layout=compact&theme=radical)
 
