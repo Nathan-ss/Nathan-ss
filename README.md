@@ -22,7 +22,7 @@ other social networks:
 [![Linkedin Badge](https://img.shields.io/badge/-nathanss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-soares-302065186/)](https://www.linkedin.com/in/nathan-soares-302065186/)
 [![Instagram Badge](https://img.shields.io/badge/-nathanss-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ynathan_ptr/)](https://www.instagram.com/ynathan_ptr/)
 [![Gmail Badge](https://img.shields.io/badge/-nathan.fnss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.fnss@gmail.com)](mailto:nathan.fnss@gmail.com)
-[![Whats-app Badge](https://img.shields.io/badge/-nathan.fnss@gmail.com-00c000?style=flat-square&logo=Whats-appl&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977919985)](https://api.whatsapp.com/send?phone=5511977919985)
+[![Whats-App Badge](https://img.shields.io/badge/-nathan-Whats-App-00c000?style=flat-square&logo=Whats-appl&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977919985)](https://api.whatsapp.com/send?phone=5511977919985)
 </p>  
 
 
