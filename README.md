@@ -16,7 +16,7 @@
 <p align="left">
 
   
-other social networks:
+Redes Sociais:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-nathanss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-soares-302065186/)](https://www.linkedin.com/in/nathan-soares-302065186/)
