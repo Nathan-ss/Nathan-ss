@@ -21,7 +21,7 @@ other social networks:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nathanss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-soares-302065186/)](https://www.linkedin.com/in/nathan-soares-302065186/)
 [![Instagram Badge](https://img.shields.io/badge/-nathanss-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ynathan_ptr/)](https://www.instagram.com/ynathan_ptr/)
-[![Gmail Badge](https://img.shields.io/badge/-nathan.fnss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.fnss@gmail.com)](mailto:nathan.fnss@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nathan.fnss@gmail.com-800000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.fnss@gmail.com)](mailto:nathan.fnss@gmail.com)
 [![Whats-app Badge](https://img.shields.io/badge/-WhatsApp-00c000?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977919985)](https://api.whatsapp.com/send?phone=5511977919985)
 </p>  
 
@@ -30,7 +30,7 @@ other social networks:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=PHP)
-![Angular-9](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular)
+![Angular-9](https://img.shields.io/badge/-Angular-800000?style=flat-square&logo=Angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
